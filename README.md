@@ -1,4 +1,4 @@
-# ncsu-ra-setup
+# NCSU-ra-setup
 
 ## Hi, I'm Max
 
