@@ -1,4 +1,4 @@
-# NCSU-ra-setup
+# # NC State Research Setup
 
 ## Hi, I'm Max
 
